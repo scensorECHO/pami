@@ -1,5 +1,5 @@
 <h1>Python Asset Management Inserter</h1>
-Interacts with the user to input asset data into the web portal using Python and Selenium.
+Interacts with the user to input asset data into the web portal using Python and Selenium. All data/log files are ignored, and the script is otherwise unable to be utilized outside of the intranet.
 
 Later implementations:.
   - may utilize a concurrent thread driving PhantomJS to input assets as user data is collected
