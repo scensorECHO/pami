@@ -1,4 +1,3 @@
-# pami
 <h1>Python Asset Management Inserter</h1>
 Interacts with the user to input asset data into the web portal using Python and Selenium.
 
